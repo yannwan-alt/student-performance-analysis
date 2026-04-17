@@ -52,10 +52,10 @@ This project is based on the paper:
 "Optimizing the Teaching Process and Evaluating Student Performance Based on Systems Analysis"
 
 ## Key Contributions
-Developed a simple and interpretable clustering-based framework for student performance analysis
-Identified atypical learning patterns beyond traditional evaluation metrics
-Demonstrated how data analysis can support teaching process optimization
-Bridged systems analysis concepts with practical AI applications in education
+1.Developed a simple and interpretable clustering-based framework for student performance analysis
+2.Identified atypical learning patterns beyond traditional evaluation metrics
+3.Demonstrated how data analysis can support teaching process optimization
+4.Bridged systems analysis concepts with practical AI applications in education
 
 ## Author
 
