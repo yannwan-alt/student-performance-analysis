@@ -1,10 +1,16 @@
 # Student Performance Analysis and Teaching Process Optimization
 
 ## Overview
+## 📌 Overview
 
-This project implements a lightweight data analysis framework for evaluating student performance and optimizing teaching processes based on a systems analysis perspective.
+This project presents a lightweight, data-driven approach for analyzing student performance and optimizing teaching processes from a systems analysis perspective.
 
-The project is based on a conference paper and demonstrates how clustering and data visualization can support decision-making in educational systems.
+By integrating clustering techniques (K-means) and dimensionality reduction (PCA), the project identifies distinct learning patterns among students, including atypical cases that are often overlooked in traditional evaluation methods.
+
+The implementation is based on a conference paper and demonstrates how simple yet effective AI methods can support decision-making and process optimization in educational systems.
+
+Unlike complex AI solutions, this project emphasizes interpretability, scalability, and practical applicability in real-world teaching environments with limited data.
+
 
 ## Features
 
