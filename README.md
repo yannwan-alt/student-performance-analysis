@@ -50,7 +50,13 @@ Student performance is influenced by multiple factors, and clustering helps iden
 
 This project is based on the paper:
 
-"AI-Driven Student Performance Evaluation for Teaching Process Optimization"
+"OPTIMIZING THE TEACHING PROCESS AND EVALUATING STUDENT PERFORMANCE BASED ON SYSTEMS ANALYSIS"
+
+## Key Contributions
+Developed a simple and interpretable clustering-based framework for student performance analysis
+Identified atypical learning patterns beyond traditional evaluation metrics
+Demonstrated how data analysis can support teaching process optimization
+Bridged systems analysis concepts with practical AI applications in education
 
 ## Author
 
