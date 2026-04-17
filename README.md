@@ -32,6 +32,7 @@ python main.py
 The project generates:
 
 * Clustering visualization (Figure 1)
+* ![聚类结果](https://github.com/yannwan-alt/student-performance-analysis/raw/main/results/figure1.png?raw=true)
 * PCA visualization (Figure 2)
 
 ## Key Insight
