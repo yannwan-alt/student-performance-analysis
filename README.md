@@ -1,4 +1,3 @@
-# student-performance-analysis
 # Student Performance Analysis and Teaching Process Optimization
 
 ## Overview
