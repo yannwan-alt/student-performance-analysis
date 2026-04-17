@@ -1,7 +1,6 @@
 # Student Performance Analysis and Teaching Process Optimization
 
 ## Overview
-## 📌 Overview
 
 This project presents a lightweight, data-driven approach for analyzing student performance and optimizing teaching processes from a systems analysis perspective.
 
@@ -38,9 +37,9 @@ python main.py
 The project generates:
 
 * Clustering visualization (Figure 1)
-* ![聚类结果](https://github.com/yannwan-alt/student-performance-analysis/raw/main/results/figure1.png?raw=true)
+* ![Cluster](https://github.com/yannwan-alt/student-performance-analysis/raw/main/results/figure1.png?raw=true)
 * PCA visualization (Figure 2)
-* ![聚类结果](https://github.com/yannwan-alt/student-performance-analysis/blob/main/results/figure2_pca.png?raw=true)
+* ![PCA](https://github.com/yannwan-alt/student-performance-analysis/blob/main/results/figure2_pca.png?raw=true)
 
 ## Key Insight
 
@@ -50,7 +49,7 @@ Student performance is influenced by multiple factors, and clustering helps iden
 
 This project is based on the paper:
 
-"OPTIMIZING THE TEACHING PROCESS AND EVALUATING STUDENT PERFORMANCE BASED ON SYSTEMS ANALYSIS"
+"Optimizing the Teaching Process and Evaluating Student Performance Based on Systems Analysis"
 
 ## Key Contributions
 Developed a simple and interpretable clustering-based framework for student performance analysis
